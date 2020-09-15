@@ -1,0 +1,15 @@
+C:\Users\slush\source\repos\AnimatedText\AnimatedText\AnimatedText\bin\Debug\netstandard2.0\AnimatedText.deps.json
+C:\Users\slush\source\repos\AnimatedText\AnimatedText\AnimatedText\bin\Debug\netstandard2.0\AnimatedText.dll
+C:\Users\slush\source\repos\AnimatedText\AnimatedText\AnimatedText\bin\Debug\netstandard2.0\ref\AnimatedText.dll
+C:\Users\slush\source\repos\AnimatedText\AnimatedText\AnimatedText\bin\Debug\netstandard2.0\AnimatedText.pdb
+C:\Users\slush\source\repos\AnimatedText\AnimatedText\AnimatedText\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\slush\source\repos\AnimatedText\AnimatedText\AnimatedText\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\slush\source\repos\AnimatedText\AnimatedText\AnimatedText\obj\Debug\netstandard2.0\Views\AnimatedText.xaml.g.cs
+C:\Users\slush\source\repos\AnimatedText\AnimatedText\AnimatedText\obj\Debug\netstandard2.0\AnimatedText.AssemblyInfoInputs.cache
+C:\Users\slush\source\repos\AnimatedText\AnimatedText\AnimatedText\obj\Debug\netstandard2.0\AnimatedText.AssemblyInfo.cs
+C:\Users\slush\source\repos\AnimatedText\AnimatedText\AnimatedText\obj\Debug\netstandard2.0\AnimatedText.csproj.CoreCompileInputs.cache
+C:\Users\slush\source\repos\AnimatedText\AnimatedText\AnimatedText\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\slush\source\repos\AnimatedText\AnimatedText\AnimatedText\obj\Debug\netstandard2.0\AnimatedText.dll
+C:\Users\slush\source\repos\AnimatedText\AnimatedText\AnimatedText\obj\Debug\netstandard2.0\ref\AnimatedText.dll
+C:\Users\slush\source\repos\AnimatedText\AnimatedText\AnimatedText\obj\Debug\netstandard2.0\AnimatedText.pdb
+C:\Users\slush\source\repos\AnimatedText\AnimatedText\AnimatedText\obj\Debug\netstandard2.0\AnimatedText.csprojAssemblyReference.cache
